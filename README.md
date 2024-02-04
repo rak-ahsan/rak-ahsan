@@ -28,11 +28,11 @@
 <p align="center">
     <a href="https://rakahsan.online/" target="blank">
         <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"
-            alt="alsiam" />
+            alt="rakib" />
     </a>
     <a href="https://www.linkedin.com/in/rakibahsan/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="alsiam" />
+            alt="rakib" />
     </a>
     <!-- <a href="https://dev.to/alsiam" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
@@ -42,11 +42,11 @@
     </a>
     <a href="https://www.instagram.com/rakibahsan1212/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"
-            alt="alsiam" />
+            alt="rakib" />
     </a>
     <a href="https://www.facebook.com/rakibahsan1212" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"
-            alt="alsiam" />
+            alt="rakib" />
     </a>
 </p>
 <br />
@@ -128,10 +128,10 @@ Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=als
 
 <a>
     <a href="https://github.com/rak-ahsan"><img alt="Rakib's's Github Stats"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rak-ahsan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
             height="192px" width="49.5%" /></a>
     <a href="https://github.com/rak-ahsan"><img alt="Rakib's Top Languages"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rakib&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rak-ahsan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
             height="192px" width="49.5%" /></a>
     <br />
 </a>
