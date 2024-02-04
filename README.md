@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Rakib + ahsan">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Rakib+ahsan">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Bangladesh</b> 」
     <br>
@@ -67,8 +67,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 📧 &emsp; Reach me anytime: rakibzubayar@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/rak-ahsan/)
 
 </p>
 
