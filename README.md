@@ -121,7 +121,7 @@ Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=als
 
 <p align="center">
     <a href="https://github.com/rak-ahsan">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rak-ahsan"
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rak-ahsan&theme=radical"
             alt="Rakib's GitHub Contribution" />
     </a>
 </p>
