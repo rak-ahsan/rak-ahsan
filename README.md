@@ -11,7 +11,7 @@ Key Skills:
 ✓ UI/UX Design: Responsive Design, Cross-Browser Compatibility
 
 Key Responsibilities:
-▪ Develop and implement innovative, efficient, and secure web applications with clean and maintainable code.
+▪ Develop and implement innovative, efficient, and secure web applications with clean and maintainable code.</br>
 ▪ Collaborate with cross-functional teams including designers, product managers, and other developers to create exceptional user experiences.
 ▪ Participate in the entire software development lifecycle, including requirements gathering, design, development, testing, deployment, and maintenance.
 ▪ Perform front-end and back-end coding, debugging, and troubleshooting to ensure seamless functionality across multiple browsers and devices.
