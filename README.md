@@ -1,4 +1,4 @@
-Highly skilled and motivated Full Stack Web Developer with expertise in both front-end and back-end development. Experienced in designing and implementing robust, scalable, and user-friendly web applications. Proficient in a wide range of programming languages, frameworks, and tools, with a strong emphasis on JavaScript, HTML, CSS, and popular front-end frameworks such as React and Angular.
+<h1>Highly skilled and motivated Full Stack Web Developer with expertise in both front-end and back-end development. Experienced in designing and implementing robust, scalable, and user-friendly web applications. Proficient in a wide range of programming languages, frameworks, and tools, with a strong emphasis on JavaScript, HTML, CSS, and popular front-end frameworks such as React and Angular.</h1>
 
 Key Skills:</br>
 ✓ PHP Development: Laravel, CodeIgniter, WordPress, Magento</br>
