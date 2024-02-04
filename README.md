@@ -10,14 +10,14 @@ Key Skills:
 ✓ Testing and Debugging: PHPUnit, Chrome DevTools, Postman
 ✓ UI/UX Design: Responsive Design, Cross-Browser Compatibility
 
-Key Responsibilities:
+Key Responsibilities:</br>
 ▪ Develop and implement innovative, efficient, and secure web applications with clean and maintainable code.</br>
-▪ Collaborate with cross-functional teams including designers, product managers, and other developers to create exceptional user experiences.
-▪ Participate in the entire software development lifecycle, including requirements gathering, design, development, testing, deployment, and maintenance.
-▪ Perform front-end and back-end coding, debugging, and troubleshooting to ensure seamless functionality across multiple browsers and devices.
-▪ Optimize web applications for maximum speed and scalability while ensuring high performance and responsiveness.
-▪ Integrate and consume RESTful APIs to fetch and display dynamic data on web pages.
-▪ Conduct thorough testing to identify and fix bugs, ensuring the highest level of quality and user satisfaction.
-▪ Stay updated with industry trends, best practices, and emerging technologies, and incorporate them into the development process.
+▪ Collaborate with cross-functional teams including designers, product managers, and other developers to create exceptional user experiences.</br>
+▪ Participate in the entire software development lifecycle, including requirements gathering, design, development, testing, deployment, and maintenance.</br>
+▪ Perform front-end and back-end coding, debugging, and troubleshooting to ensure seamless functionality across multiple browsers and devices.</br>
+▪ Optimize web applications for maximum speed and scalability while ensuring high performance and responsiveness.</br>
+▪ Integrate and consume RESTful APIs to fetch and display dynamic data on web pages.</br>
+▪ Conduct thorough testing to identify and fix bugs, ensuring the highest level of quality and user satisfaction.</br>
+▪ Stay updated with industry trends, best practices, and emerging technologies, and incorporate them into the development process.</br>
 
 As a Full Stack Web Developer, I am passionate about delivering innovative solutions and constantly improving my skills to meet the evolving needs of the industry. I am dedicated to creating high-quality web applications that provide a seamless and engaging user experience. Let's connect and explore opportunities to collaborate on exciting projects!
